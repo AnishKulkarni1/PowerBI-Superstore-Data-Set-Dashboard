@@ -1,1 +1,2 @@
 # PowerBI-Superstore-Data-Set-Dashboard
+This Power BI project showcases a complete business intelligence workflow, combining data modelling, DAX calculations, visual analytics, and dashboard creation using multiple real-world datasets such as Superstore, Finance, and Box Office Mojo. The assignment demonstrates practical application of Power BI tools and features across various business scenarios.
